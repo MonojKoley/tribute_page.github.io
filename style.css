@@ -136,7 +136,7 @@ footer hr {
 }
 
 /* ---media query--- */
-@media (max-width:768px) {
+@media (max-width:480px) {
     .top_section {
         margin-top: 50px;
         display: block;
