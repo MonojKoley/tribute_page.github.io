@@ -40,6 +40,9 @@ body {
     color: rgb(92, 3, 92);
 }
 
+.top_section h5 span {
+        font-size: 50px;
+
 .img_container {
     border-radius: 45%;
     overflow: hidden;
